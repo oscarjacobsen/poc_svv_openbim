@@ -1,0 +1,49 @@
+.HODE 0:
+..TEGNSETT UTF-8
+..TRANSPAR
+...KOORDSYS 206
+...ORIGO-NØ 0 0
+...ENHET 1
+...VERT-DATUM NN2000
+..OMRÅDE
+...MIN-NØ 0 0
+...MAX-NØ 999999999 999999999
+..SOSINVDB-FORMAT-VERSJON 1.0
+..DATAKATALOGVERSJON 2.39
+..SOSI_VERSJON 8.1
+..PRODUSENT Norconsult
+.PUNKT 1:
+..OBJTYPE Trekkekum_853
+..DATAFANGSTDATO 20250122
+..KVALITET
+...DATAFANGSTMETODE pla
+...NØYAKTIGHET 20
+...SYNBARHET 0
+...DATAFANGSTMETODEHØYDE pla
+...H-NØYAKTIGHET 20
+..MaterialeLokk_11241 Støpjern
+..AntallRør_10840 6
+..Tilleggsinformasjon_11242 Her kan det stå hva som helst beskrivende tilleggsinformasjon, så lenge teksten ikke er lenger enn 400 tegn :) 
+..Kumform_9738 Rektangulær
+..Plassering_9740 Bak betongrekkverk
+..MaterialeKum_9741 Betong, spesialprodusert
+..Brannsikker_9742 Nei
+..DybdeYtre_9737 900
+..Etableringsår_9731 2024
+..Driftsmerking_9757 -NK200008
+..Eier_9732 Stat, Nye Veier
+..BreddeYtre_9728 900.0
+..LengdeYtre_9739 1400
+..EierNavn_9733 Norconsult Norge AS
+..Vedlikeholdsansvarli_10981 Privat
+..Produsent_9734 Basal
+..Produktnavn_9735 TK2 - 900
+..Arkivnummer_9730 11-11111;30-03999;22-22222
+..Arkivreferanse_11701 https://nvdb.atlas.vegvesen.no/docs/digital-drivkraft/
+..Prosjektreferanse_11168 PoC_DigitalDrivkraft
+..ProsjektInternObjekt_12427 <PoC>-T1.E1.S1.T1.OB2.JE2.KT2.TRE3.KKE3.KUM3
+..FKB_ID_10859 999
+..RelevantForEkomporta_12451 Ja
+..NØH
+1218452.074 327733.464 10.248
+.SLUTT
